@@ -3,6 +3,7 @@ import { DisplayState } from './helpers'
 import TimeSetter from './TimeSetter'
 import Display from './Display'
 import AlarmSound from "./assets/AlarmSound.mp3"
+import "./App.css";
 
 const defaultBreakTime = 5 * 60;
 const defaultSessionTime = 25 * 60;
